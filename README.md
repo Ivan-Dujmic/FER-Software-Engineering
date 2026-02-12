@@ -1,4 +1,7 @@
 _This is a fork._  
+
+Project for [FER's Software Engineering](https://www.fer.unizg.hr/predmet/proinz) course.
+
 My team role and contributions:  
 Developed as part of a Software Engineering course in a team of seven. Led the backend team and designed the overall system architecture. Built the backend using Django, documented RESTful API endpoints with SwaggerUI, produced project documentation, and collaborated on UI/UX design using Figma to support frontend development.
 
