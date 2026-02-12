@@ -1,4 +1,4 @@
-_This is a fork._  
+_This is a fork_
 
 Project for [FER's Software Engineering](https://www.fer.unizg.hr/predmet/proinz) course.
 
